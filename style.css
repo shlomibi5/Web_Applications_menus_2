@@ -1,0 +1,20 @@
+body {
+	direction: rtl;
+	margin: 0;
+}
+
+nav {
+	border: solid 5px red;
+}
+
+ul {
+	list-style: none;
+	padding: 20px 0 20px 0;
+}
+
+li{
+	font-family: Tahoma;
+	font-size:14px;
+	margin-right: 10px;
+}
+
